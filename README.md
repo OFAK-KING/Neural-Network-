@@ -24,3 +24,8 @@ Experiment with varying the amount of training data. (Each subquestion below is 
 2d. Discuss results. How does size of training data affect number of epochs needed for training to converge?    
 
 2e. Is there any evidence that any of networks overfit to the training data? If  so, what is the evidence?
+
+Question 3: Experiment with features and hyperparameters of the model to increase the accuracy of the best model from
+previous experiments. 
+
+Document what changes you needed to make to achieve these results.
